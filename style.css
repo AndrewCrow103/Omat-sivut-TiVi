@@ -1,0 +1,39 @@
+.squareLogo{
+    width: 64px;
+    height: 64px;
+}
+
+.link{
+    text-decoration: underline;
+    color: rgb(230, 177, 248);
+}
+
+.someLink{
+    font-size: 20px;
+}
+body{
+    background-color: rgb(41, 42, 42);
+    color: white;
+    line-height: 300%;
+    margin-left: 40px;
+}
+h1{
+    color:rgb(206, 231, 253);
+    margin-left: -20px;
+    font-size: 40px;
+}
+h2{
+    margin-left: -20px;
+}
+
+.some{
+    line-height: 200%;
+    margin-left: -20px;
+}
+ul{
+    line-height: 150%;
+}
+header{
+    margin-left: -20px;
+    font-size: 20px;
+}
